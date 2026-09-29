@@ -1,0 +1,6 @@
+{
+  "name": "yaad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Real-time Google Photos fuzzy retrieval MVP (Picker API + Claude vision)"
+}
